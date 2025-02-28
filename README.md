@@ -8,5 +8,5 @@ A collection of trading bot simulations for educational and experimental purpose
 ## Setup
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/trading-bots-simulations.git
+   git clone https://github.com/PeteSumners/trading-bots-simulations.git
    cd trading-bots-simulations
