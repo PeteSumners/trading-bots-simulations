@@ -1,0 +1,12 @@
+# Ignore generated files
+data/trades.csv
+logs/simple_bot.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
